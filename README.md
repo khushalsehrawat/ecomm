@@ -175,4 +175,8 @@ function removeFromCart(index) {
 This project is your **first step toward bigger e-commerce apps**. Keep experimenting and upgrading it!
 
 Happy Coding 💡🚀
+
+
+🌐 Visit my web development studio — [TheVB24.com](https://www.thevb24.com)
+
 ****
