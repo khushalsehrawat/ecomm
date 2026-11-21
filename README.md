@@ -180,3 +180,15 @@ Happy Coding 💡🚀
 🌐 Visit my web development studio — [TheVB24.com](https://www.thevb24.com)
 
 ****
+
+
+## Development & Maintenance
+
+**Developed & Maintained by
+[Khushal Sehrawat](https://github.com/khushalsehrawat)**
+— Founder of
+[TheBenzzCreations](https://www.thebenzzcreations.com/).
+
+TheBenzzCreations is a digital development studio specializing in website development, custom software, mobile applications, e-commerce solutions and AI-powered business automation.
+
+For development enquiries and collaborations, visit [TheBenzzCreations](https://www.thebenzzcreations.com/).
