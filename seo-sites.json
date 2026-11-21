@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "name": "ecomm",
+      "root": "Ecomm-Ui",
+      "base_url": "https://khushalsehrawat.github.io/ecomm/Ecomm-Ui/",
+      "pages": {
+        "cart.html": "https://khushalsehrawat.github.io/ecomm/Ecomm-Ui/cart.html",
+        "index.html": "https://khushalsehrawat.github.io/ecomm/Ecomm-Ui/"
+      }
+    }
+  ]
+}
